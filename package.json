@@ -21,7 +21,7 @@
   "dependencies": {
     "nanoid": "^4.0.0",
     "nanoid-esm": "^2.1.0-esm.4",
-    "nodemon": "^2.0.20",
+    "nodemon": "^2.0.21",
     "uid": "^2.0.1",
     "yargs": "^17.6.2"
   }
